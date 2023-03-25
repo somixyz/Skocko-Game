@@ -6,10 +6,9 @@
 
 **Game Description:**
 
-Skocko is a character game. The computer randomly selects a combination of four characters to be guessed. Characters are chosen from a set of 6 characters, and a certain character can appear more than once. 
-You have 7 attempts to guess the combination, and after each attempt the computer shows how many characters you guessed and how many of those characters are in the right position. You get 30 points for successfully finding the combination in 6 or less attempts. For finding the combination in 7 attempts you get 20 points.
+Skocko is a game with symbols. The computer randomly selects a combination of four symbols that need to be guessed. The symbols are chosen from a set of 6 symbols, and a specific symbol can appear multiple times. You have 7 attempts to guess the combination, and after each attempt, the computer displays how many symbols you have guessed correctly and how many of those symbols are in the correct position. For successfully finding the combination in 6 or fewer attempts, you get 30 points. For finding the combination in 7 attempts, you get 20 points.
 
-The characters are represented by numbers from 1 to 6. After the game is finished, the user can play the game again or finish the program. If the user completes the program, a message is printed to the user about how many games he played and how many points he had in the game.
+Represent the symbols with numbers from 1 to 6. After the game is completed, the user is allowed to play the game again or exit the program. If the user exits the program, a message is displayed showing how many games were played and how many points were earned in the game.
 
 
 
